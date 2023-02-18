@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Fully responsive website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React and a lot of CSS.
 
 ## Available Scripts
 
